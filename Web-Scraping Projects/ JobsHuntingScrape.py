@@ -1,6 +1,5 @@
 from Modules.Captcha import *
-# 'Captcha' module is just my  that can even solve captcha v2 or v1 without using any subscription like 2captcha to be able
-# to do it + other basic measures to not get detected as a bot when using the scraper 
+# 'Captcha' module is a script i talked about in the readme.txt 
 
 
 url = r"https://www.practicematch.com/physicians/jobs/"
