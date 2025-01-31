@@ -1,6 +1,4 @@
-from Modules.Captcha import *
-# 'Captcha' module is a script i talked about in the readme.txt 
-
+from Modules.Pers import *
 
 url = r"https://www.practicematch.com/physicians/jobs/"
 brws(url)
