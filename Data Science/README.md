@@ -1,3 +1,3 @@
-These are my data science projects with Python\n
-Numpy & Pandas for Data Analysis\n
+These are my data science projects with Python  
+Numpy & Pandas for Data Analysis  
 Matplotlib & Seaborn for Data Visualization.
