@@ -9,7 +9,7 @@ app = Flask(__name__)
 model = joblib.load('final_model.pkl')
 ml_col_names = joblib.load('column_names.pkl')
 
-# step 2, connect api post to function. NOW WHEN WE GO TO /predict in URL, it'll ACTIVATE THIS FUNCTION AUTOMATICALLY.
+# step 2, connect api post to function. Now when we go to /predict in URL, it'll activate this fuction automatically.
 @app.route('/predict',methods=['POST'])
 def predict():
 
